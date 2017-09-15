@@ -28,7 +28,6 @@ function dec(n) {
   return n;
 }
 
-n=0x2328
 function makeInt(n) {
   parseInt(n);
   return n;
